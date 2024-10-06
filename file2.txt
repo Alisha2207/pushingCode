@@ -1,3 +1,4 @@
 this is my second file for git course
 adding more content to file 2
 hey struggling withgit rn
+learning to push code
